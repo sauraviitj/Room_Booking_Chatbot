@@ -32,6 +32,3 @@ Forktail House is a serene homestay situated in the tranquil town of **Lava** in
 
 ---
 
-## 🚀 How to Use
-
-### 🧪 Try It Locally
