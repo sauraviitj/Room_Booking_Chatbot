@@ -1,6 +1,6 @@
-# 🏡 Forkatil House Chatbot — Room Booking Assistant
+# 🏡 Forktail House Chatbot — Room Booking Assistant
 
-Welcome to the official repository for the **Forkatil House Chatbot** — an intelligent conversational assistant that helps guests explore and book rooms at the beautiful **Forkatil House**, a cozy homestay nestled in the hills of **Lava, India**.
+Welcome to the official repository for the **Forktail House Chatbot** — an intelligent conversational assistant that helps guests explore and book rooms at the beautiful **Forktail House**, a cozy homestay nestled in the hills of **Lava, India**.
 
 ---
 
@@ -16,9 +16,9 @@ Welcome to the official repository for the **Forkatil House Chatbot** — an int
 
 ---
 
-## 📍 About Forkatil House
+## 📍 About Forktail House
 
-Forkatil House is a serene homestay situated in the tranquil town of **Lava** in West Bengal, India. With misty mornings, lush forest trails, and a breathtaking view of the Kanchenjunga range, it's the perfect retreat for travelers seeking peace and nature.
+Forktail House is a serene homestay situated in the tranquil town of **Lava** in West Bengal, India. With misty mornings, lush forest trails, and a breathtaking view of the Kanchenjunga range, it's the perfect retreat for travelers seeking peace and nature.
 
 ---
 
