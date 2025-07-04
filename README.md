@@ -10,7 +10,7 @@ Welcome to the official repository for the **Forktail House Chatbot** — an int
 - 📅 Room booking queries with intelligent slot-filling
 - 📍 Location-aware prompts for guests unfamiliar with Lava
 - 🏞️ Highlights amenities, scenic views, and local attractions
-- 🧠 Powered by LLMs (OpenAI/Gemini/Ollama)
+- 🧠 Powered by Locally hosted LLMs without API Costing
 - 🔁 Supports streaming or batch responses
 - 🌐 Can be integrated into web apps, WhatsApp bots, or kiosks
 
