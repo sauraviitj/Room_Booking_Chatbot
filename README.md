@@ -15,7 +15,7 @@ Welcome to the official repository for the **Forktail House Chatbot** — an int
 - 🌐 Can be integrated into web apps, WhatsApp bots, or kiosks
 
 ---
-
+![image](https://github.com/sauraviitj/Room_Booking_Chatbot/blob/main/Chat_bot.png)
 ## 📍 About Forktail House
 
 Forktail House is a serene homestay situated in the tranquil town of **Lava** in West Bengal, India. With misty mornings, lush forest trails, and a breathtaking view of the Kanchenjunga range, it's the perfect retreat for travelers seeking peace and nature.
